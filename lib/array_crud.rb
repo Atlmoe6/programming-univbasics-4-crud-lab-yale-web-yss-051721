@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
  goats = ["jordan", "messi", "federer", "arrays!"]
- goats
+ goats [1] = "totally"
 end
