@@ -32,7 +32,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  goats = ["jordan", "messi", "federer", "brady"]
+  goats = ["wow", "messi", "federer", "brady"]
   goats[0]
 end
 
@@ -42,6 +42,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
- goats = ["jordan", "messi", "federer", "brady"]
+ goats = ["jordan", "messi", "federer", "arrays!"]
  
 end
