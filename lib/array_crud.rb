@@ -3,12 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
- goat = ["jordan", "messi", "federer", "brady"]
+ goats = ["jordan", "messi", "federer", "brady"]
 end
 
 def add_element_to_end_of_array(array, element)
   create_an_array
-  goat << "bonds"
+  goats << "bonds"
 end
 
 def add_element_to_start_of_array(array, element)
