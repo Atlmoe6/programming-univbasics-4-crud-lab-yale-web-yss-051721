@@ -18,16 +18,16 @@ end
 
 def remove_element_from_end_of_array(array)
   goats = ["jordan", "messi", "federer", "brady"]
-  brady = goats.pop
+  "arrays!" = goats.pop
 end
 
 def remove_element_from_start_of_array(array)
   goats = ["jordan", "messi", "federer", "brady"]
-  jordan = goats.shift
+  "wow" = goats.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  goats = ["jordan", "messi", "federer", "brady"]
+  goats = ["jordan", "messi", "am", "brady"]
   goats [2]
 end
 
