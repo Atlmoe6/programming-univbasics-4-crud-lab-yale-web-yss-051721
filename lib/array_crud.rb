@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  goats = ["jordan", "messi", "federer", "brady"]
+  goats = ["jordan", "messi", "federer", "arrays!"]
   goats[3]
 end
 
